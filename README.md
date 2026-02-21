@@ -153,7 +153,7 @@ Being constrained by the available `RAM` to run the models, further enhancement 
 
 ## Analysis of Homosexual Representation in Comedies over the Years
 
-In a complementary exploratory approach, inspired by the methodology employed by Himmler in his study "Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change", the evolution of homosexual representation in cinema was scrutinized through the scripts dataset. The analysis focused on the semantic trajectory of the word `"gay"` within the scripts over several decades.
+In a complementary exploratory approach, inspired by the methodology employed by Hamilton et al. in their study "Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change", the evolution of homosexual representation in cinema was scrutinized through the scripts dataset. The analysis focused on the semantic trajectory of the word `"gay"` within the scripts over several decades.
 
 Comedies were chosen as the primary study corpus due to the high frequency of the term `"gay"` in this genre (see Figure 12). Even though the dataset features an uneven distribution of movies before and after the year **2000** (see Figure 11), significant outcomes were identified.
 
